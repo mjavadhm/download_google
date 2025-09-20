@@ -31,7 +31,7 @@ def download_nested_files():
     print("\n>>> (Step 3/3) Downloading nested files...")
     
     links = [
-        'https://drive.google.com/file/d/1LT_tQOj4tf9JSBBo4rqmRdJlzeg_0r27/view?usp=drive_link',
+        'https://drive.usercontent.google.com/download?id=1LT_tQOj4tf9JSBBo4rqmRdJlzeg_0r27&export=download',
         'https://drive.google.com/file/d/1bvlMBdZ9l1Dwiq74eKHc1ApCaihZnVEI/view?usp=drive_link',
         'https://drive.google.com/file/d/1HCGvbD1zbN6mEDXqPGNIunSCfyCd-esG/view?usp=drive_link',
         'https://drive.google.com/file/d/1Rj_ospgxOAX3E0Jkc59aFYjFiJ0g8p9/view?usp=drive_link',
